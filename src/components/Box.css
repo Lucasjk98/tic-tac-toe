@@ -1,11 +1,14 @@
 .box {
     border: none;
+    display: flex;
     background-color: white;
     color: #17171700;
     border-radius: 10%;
     box-shadow: 0rem 0rem .5rem #888;
-    width:5rem;
-    height: 5rem;
+    min-width: 5rem;
+    min-height: 5rem;
+    max-width: fit-content;
+    max-width: fit-content;
     text-align: center;
     font-size: 5em;
     font-weight: bold ;
