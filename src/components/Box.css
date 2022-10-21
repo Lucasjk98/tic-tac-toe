@@ -7,8 +7,12 @@
     box-shadow: 0rem 0rem .5rem #888;
     width: 5rem;
     height: 5rem;
-    margin: min(.5rem);
+    margin:.5rem ;
+    position: center;
     justify-content: space-evenly;
+    text-align: center;
+    font-size: 5em;
+    line-height: 5rem;
 }
 
 
@@ -24,7 +28,7 @@
 .o {
     color: #17171700;
     background-position: center 2pxright;
-    background-size: max(5rem 5.2rem);
+    background-size: max(5rem, 4.9rem);
     max-width: 5rem;
     background-repeat: no-repeat;
     background-image: url(/public/Toe.png);

@@ -5,7 +5,7 @@ import "./Title.css"
  export function Title() {
     return (
         <div>
-            <h1 className='Title'>Tik-Tok-To</h1>
+            <h1 className='Title'>Tik-Tok-Toe</h1>
         </div>
     )
 }
