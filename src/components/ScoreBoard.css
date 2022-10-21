@@ -2,11 +2,10 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    position: center;
     justify-content: space-evenly;
     margin-bottom: 2rem;
-    margin-left: 6% auto;
-    margin-right: 6% auto;
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: white;
     font-size: 1.5rem;
     box-shadow: 0rem 0rem .5rem #888;

@@ -78,7 +78,7 @@ const resetBoard = () => {
   return(
     <div className="App">
       <Title/>
-      <ScoreBoard scores= {scores} xPlaying = {xPlaying} />
+      <ScoreBoard scores = {scores} xPlaying = {xPlaying} />
       <Board board={board} onClick = { gameOver ? resetBoard: handleBoxClick} />
       <ResetButton resetBoard = {resetBoard}/>
     </div>
