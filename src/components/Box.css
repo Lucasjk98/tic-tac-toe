@@ -8,11 +8,9 @@
     width: 5rem;
     height: 5rem;
     margin: min(.5rem);
-    position: center;
     justify-content: space-evenly;
-    text-align: center;
-    font-size: 5em;
-    line-height: 5rem;
+    
+   
 }
 
 
